@@ -51,7 +51,7 @@ If you already have it installed, run the server by: `$ json-server --watch db.j
     * IMPORTANT: if the `quoteID` is a string for some reason (for example, if you've pulled the ID from a dataset) the index page will not include the like you create on _any_ quote.
   * Bonus (not required): add a `createdAt` key to your object to track when
     the like was created. Use [UNIX time][] (the number of seconds since
-    January 1, 1970). The  [documentation][https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date] for the JS `Date` class may be
+    January 1, 1970). The  [documentation][] for the JS `Date` class may be
     helpful here!
 
 ## Extend Your Learning

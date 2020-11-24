@@ -6,11 +6,6 @@
       "author": "Alok Vaid Menon"
     },
     {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
       "id": 6,
       "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
       "author": "Audre Lorde"
@@ -21,19 +16,9 @@
       "author": "Confucius"
     },
     {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
-    },
-    {
       "id": 9,
       "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
       "author": "James Baldwin"
-    },
-    {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
     },
     {
       "id": 11,
@@ -41,327 +26,186 @@
       "author": "Ann Richards"
     },
     {
-      "quote": "Keep your code happy",
-      "author": "Raffy",
-      "id": 12
+      "quote": "Be yourself; everyone else is already taken",
+      "author": "Oscar",
+      "id": 15
     },
     {
-      "quote": "Noodle, don’t noodle. Quit, don’t quit",
-      "author": "Joe",
-      "id": 13
+      "quote": "Hello!",
+      "author": "Michelle",
+      "id": 16
     }
   ],
   "likes": [
     {
-      "quoteId": 10,
-      "id": 2,
-      "createdAt": 1558524358
+      "quoteId": "3",
+      "createdAt": 1606176088302,
+      "id": 1
     },
     {
       "quoteId": "3",
+      "createdAt": 1606176159639,
+      "id": 2
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1606176190057,
       "id": 3
     },
     {
       "quoteId": "3",
+      "createdAt": 1606176190867,
       "id": 4
     },
     {
-      "quoteId": "3",
+      "quoteId": "6",
+      "createdAt": 1606176192562,
       "id": 5
     },
     {
-      "quoteId": "3",
+      "quoteId": "7",
+      "createdAt": 1606176193928,
       "id": 6
     },
     {
-      "quoteId": "3",
+      "quoteId": "6",
+      "createdAt": 1606176195335,
       "id": 7
     },
     {
       "quoteId": "3",
+      "createdAt": 1606176196250,
       "id": 8
     },
     {
-      "quoteId": "3",
+      "quoteId": 3,
+      "createdAt": 1606176276192,
       "id": 9
     },
     {
-      "quoteId": "3",
+      "quoteId": 3,
+      "createdAt": 1606176276645,
       "id": 10
     },
     {
-      "quoteId": "3",
+      "quoteId": 3,
+      "createdAt": 1606176276804,
       "id": 11
     },
     {
-      "quoteId": "4",
+      "quoteId": 3,
+      "createdAt": 1606176276939,
       "id": 12
     },
     {
-      "quoteId": "4",
+      "quoteId": 6,
+      "createdAt": 1606176277885,
       "id": 13
     },
     {
-      "quoteId": "6",
+      "quoteId": 6,
+      "createdAt": 1606176278165,
       "id": 14
     },
     {
-      "quoteId": "7",
+      "quoteId": 6,
+      "createdAt": 1606176278442,
       "id": 15
     },
     {
-      "quoteId": "7",
+      "quoteId": 3,
+      "createdAt": 1606176676855,
       "id": 16
     },
     {
-      "quoteId": "6",
+      "quoteId": 3,
+      "createdAt": 1606176677357,
       "id": 17
     },
     {
-      "quoteId": "4",
+      "quoteId": 3,
+      "createdAt": 1606176677642,
       "id": 18
     },
     {
-      "quoteId": "3",
+      "quoteId": 6,
+      "createdAt": 1606176679208,
       "id": 19
     },
     {
-      "quoteId": "3",
+      "quoteId": 6,
+      "createdAt": 1606176679383,
       "id": 20
     },
     {
-      "quoteId": "4",
+      "quoteId": 6,
+      "createdAt": 1606176679549,
       "id": 21
     },
     {
-      "quoteId": "4",
+      "quoteId": 15,
+      "createdAt": 1606176696340,
       "id": 22
     },
     {
-      "quoteId": "4",
+      "quoteId": 15,
+      "createdAt": 1606176696555,
       "id": 23
     },
     {
-      "quoteId": "6",
+      "quoteId": 16,
+      "createdAt": 1606176697175,
       "id": 24
     },
     {
-      "quoteId": "6",
+      "quoteId": 16,
+      "createdAt": 1606176697405,
       "id": 25
     },
     {
-      "quoteId": "7",
+      "quoteId": 16,
+      "createdAt": 1606176697691,
       "id": 26
     },
     {
-      "quoteId": "7",
+      "quoteId": 16,
+      "createdAt": 1606176697866,
       "id": 27
     },
     {
-      "quoteId": "8",
+      "quoteId": 3,
+      "createdAt": 1606177144847,
       "id": 28
     },
     {
-      "quoteId": "8",
+      "quoteId": 3,
+      "createdAt": 1606177145102,
       "id": 29
     },
     {
-      "quoteId": "3",
+      "quoteId": 3,
+      "createdAt": 1606177145309,
       "id": 30
     },
     {
-      "quoteId": "3",
+      "quoteId": 6,
+      "createdAt": 1606177146007,
       "id": 31
     },
     {
-      "quoteId": "3",
+      "quoteId": 6,
+      "createdAt": 1606177146149,
       "id": 32
     },
     {
-      "quoteId": "4",
+      "quoteId": 6,
+      "createdAt": 1606177146306,
       "id": 33
     },
     {
-      "quoteId": "4",
+      "quoteId": 6,
+      "createdAt": 1606177146457,
       "id": 34
-    },
-    {
-      "quoteId": "4",
-      "id": 35
-    },
-    {
-      "quoteId": "3",
-      "id": 36
-    },
-    {
-      "quoteId": "3",
-      "id": 37
-    },
-    {
-      "quoteId": "3",
-      "id": 38
-    },
-    {
-      "quoteId": "3",
-      "id": 39
-    },
-    {
-      "quoteId": "3",
-      "id": 40
-    },
-    {
-      "quoteId": "3",
-      "id": 41
-    },
-    {
-      "quoteId": "3",
-      "id": 42
-    },
-    {
-      "quoteId": "3",
-      "id": 43
-    },
-    {
-      "quoteId": "3",
-      "id": 44
-    },
-    {
-      "quoteId": "3",
-      "id": 45
-    },
-    {
-      "quoteId": "3",
-      "id": 46
-    },
-    {
-      "quoteId": 3,
-      "id": 47
-    },
-    {
-      "quoteId": 3,
-      "id": 48
-    },
-    {
-      "quoteId": 3,
-      "id": 49
-    },
-    {
-      "quoteId": 3,
-      "id": 50
-    },
-    {
-      "quoteId": 3,
-      "id": 51
-    },
-    {
-      "quoteId": 4,
-      "id": 52
-    },
-    {
-      "quoteId": 4,
-      "id": 53
-    },
-    {
-      "quoteId": 4,
-      "id": 54
-    },
-    {
-      "quoteId": 4,
-      "id": 55
-    },
-    {
-      "quoteId": 4,
-      "id": 56
-    },
-    {
-      "quoteId": 4,
-      "id": 57
-    },
-    {
-      "quoteId": 4,
-      "id": 58
-    },
-    {
-      "quoteId": 6,
-      "id": 59
-    },
-    {
-      "quoteId": 6,
-      "id": 60
-    },
-    {
-      "quoteId": 6,
-      "id": 61
-    },
-    {
-      "quoteId": 6,
-      "id": 62
-    },
-    {
-      "quoteId": 6,
-      "id": 63
-    },
-    {
-      "quoteId": 6,
-      "id": 64
-    },
-    {
-      "quoteId": 6,
-      "id": 65
-    },
-    {
-      "quoteId": 6,
-      "id": 66
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1606163111517,
-      "id": 67
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1606163111708,
-      "id": 68
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1606163111898,
-      "id": 69
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1606163112113,
-      "id": 70
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1606163112335,
-      "id": 71
-    },
-    {
-      "quoteId": 3,
-      "createdAt": 1606163112789,
-      "id": 72
-    },
-    {
-      "quoteId": 3,
-      "createdAt": "2020-11-23T20:25:59.523Z",
-      "id": 73
-    },
-    {
-      "quoteId": 3,
-      "createdAt": "2020-11-23T20:25:59.665Z",
-      "id": 74
-    },
-    {
-      "quoteId": 3,
-      "createdAt": "2020-11-23T20:25:59.808Z",
-      "id": 75
-    },
-    {
-      "quoteId": 3,
-      "createdAt": "2020-11-23T20:25:59.951Z",
-      "id": 76
     }
   ]
 }
